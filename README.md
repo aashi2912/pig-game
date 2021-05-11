@@ -1,0 +1,2 @@
+# pig-game
+It's a game using html, CSS and JavaScript where 2 players play and roll the dice. When someone roll dice and it comes 1, the current score becomes zero. Player can also hold it's score and respectively their score will be added into current score. whoever scores 100 first wins!! whoever rolls 1, current score becomes 0. So, play smart and hold your score. Kind of new and interesting feature of holding.
